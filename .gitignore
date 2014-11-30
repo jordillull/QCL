@@ -1,0 +1,11 @@
+# Generic ignores
+qcl
+*.o
+*.a
+lex.*
+.depend
+
+# IDE tool ignores
+.cproject
+.project
+
